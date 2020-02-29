@@ -8,4 +8,5 @@ public class FirstProject_ProbaRepo_FirstClass {
 		int x=1;
 		int y = 2;
 		int z = 3;
+		int w = 4;
 }
