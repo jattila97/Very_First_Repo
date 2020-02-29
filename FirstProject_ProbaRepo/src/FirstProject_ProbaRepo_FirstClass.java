@@ -6,4 +6,5 @@ public class FirstProject_ProbaRepo_FirstClass {
 
 	}
 		int x=1;
+		int y = 2;
 }
